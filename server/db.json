@@ -1,0 +1,172 @@
+{
+  "netflixTitles": [
+    {
+      "id": "1",
+      "title": "Stranger Things",
+      "genre": "Science Fiction",
+      "releaseYear": 2016,
+      "seasons": 4,
+      "thumbnail": "https://i.pinimg.com/enabled_lo/564x/b1/89/86/b18986f14e8181ac80633ec4728d6cf7.jpg",
+      "description": "A group of kids in the 1980s uncover strange supernatural events in their small town.",
+      "cast": [
+        "Winona Ryder",
+        "David Harbour",
+        "Millie Bobby Brown"
+      ],
+      "rating": "TV-14"
+    },
+    {
+      "id": "2",
+      "title": "The Crown",
+      "genre": "Drama",
+      "releaseYear": 2016,
+      "seasons": 5,
+      "thumbnail": "https://i.pinimg.com/564x/64/12/3d/64123ddeb1e074abe4d73e25b8ebfe71.jpg",
+      "description": "A biographical story about the reign of Queen Elizabeth II and the political events that shaped the second half of the 20th century.",
+      "cast": [
+        "Claire Foy",
+        "Olivia Colman",
+        "Imelda Staunton"
+      ],
+      "rating": "TV-MA"
+    },
+    {
+      "id": "3",
+      "title": "Money Heist",
+      "genre": "Crime, Thriller",
+      "releaseYear": 2017,
+      "seasons": 5,
+      "thumbnail": "https://i.pinimg.com/enabled_lo/564x/6e/42/0b/6e420b7bd2a65359258ee4c5ee1501dd.jpg",
+      "description": "A criminal mastermind recruits eight thieves to carry out an ambitious plan to steal billions from the Royal Mint of Spain.",
+      "cast": [
+        "Álvaro Morte",
+        "Úrsula Corberó",
+        "Itziar Ituño"
+      ],
+      "rating": "TV-MA"
+    },
+    {
+      "id": "4",
+      "title": "Black Mirror",
+      "genre": "Anthology, Science Fiction",
+      "releaseYear": 2011,
+      "seasons": 6,
+      "thumbnail": "https://i.pinimg.com/564x/86/c8/d3/86c8d338dfebcaefe076c222f0c7a17e.jpg",
+      "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+      "cast": [
+        "Bryce Dallas Howard",
+        "Daniel Kaluuya",
+        "Jon Hamm"
+      ],
+      "rating": "TV-MA"
+    },
+    {
+      "id": "5",
+      "title": "Narcos",
+      "genre": "Crime, Drama",
+      "releaseYear": 2015,
+      "seasons": 3,
+      "thumbnail": "https://i.pinimg.com/564x/71/ff/3c/71ff3c2f9639bbe05eff5f83dfd90bf9.jpg",
+      "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.",
+      "cast": [
+        "Wagner Moura",
+        "Pedro Pascal",
+        "Boyd Holbrook"
+      ],
+      "rating": "TV-MA"
+    },
+    {
+      "id": "6",
+      "title": "The Witcher",
+      "genre": "Fantasy, Adventure",
+      "releaseYear": 2019,
+      "seasons": 3,
+      "thumbnail": "https://i.pinimg.com/564x/9a/ab/e8/9aabe8e47cc2c3ba25aacce0eec67141.jpg",
+      "description": "Geralt of Rivia, a monster hunter for hire, journeys across a war-torn world.",
+      "cast": [
+        "Henry Cavill",
+        "Freya Allan",
+        "Anya Chalotra"
+      ],
+      "rating": "TV-MA"
+    },
+    {
+      "id": "7",
+      "title": "Ozark",
+      "genre": "Crime, Drama",
+      "releaseYear": 2017,
+      "seasons": 4,
+      "thumbnail": "https://i.pinimg.com/564x/87/09/03/8709034c070c261e8a364f06587970cf.jpg   ",
+      "description": "A financial planner relocates his family to the Ozarks and must launder money for a drug cartel.",
+      "cast": [
+        "Jason Bateman",
+        "Laura Linney",
+        "Julia Garner"
+      ],
+      "rating": "TV-MA"
+    },
+    {
+      "id": "8",
+      "title": "Bridgerton",
+      "genre": "Drama, Romance",
+      "releaseYear": 2020,
+      "seasons": 2,
+      "thumbnail": "https://i.pinimg.com/564x/2d/2c/f3/2d2cf34beda10a3e741acc8d7b9fe0f1.jpg",
+      "description": "Wealth, lust, and betrayal set against the backdrop of Regency-era England.",
+      "cast": [
+        "Phoebe Dynevor",
+        "Rege-Jean Page",
+        "Nicola Coughlan"
+      ],
+      "rating": "TV-MA"
+    },
+    {
+      "id": "9",
+      "title": "Lucifer",
+      "genre": "Crime, Fantasy",
+      "releaseYear": 2016,
+      "seasons": 6,
+      "thumbnail": "https://i.pinimg.com/564x/95/54/39/955439c36216cc5d4f6f9296dd141844.jpg",
+      "description": "Lucifer Morningstar abandons Hell for Los Angeles, where he runs a nightclub and helps the LAPD solve crimes.",
+      "cast": [
+        "Tom Ellis",
+        "Lauren German",
+        "Kevin Alejandro"
+      ],
+      "rating": "TV-14"
+    },
+    {
+      "id": "10",
+      "title": "The Umbrella Academy",
+      "genre": "Action, Fantasy",
+      "releaseYear": 2019,
+      "seasons": 3,
+      "thumbnail": "https://i.pinimg.com/564x/52/a4/56/52a456e560f41c1dea71b0496e30bd1f.jpg",
+      "description": "A dysfunctional family of superheroes reunite to save the world.",
+      "cast": [
+        "Elliot Page",
+        "Tom Hopper",
+        "David Castañeda"
+      ],
+      "rating": "TV-MA"
+    }
+  ],
+  "mylist": [
+    {
+      "id": "1",
+      "thumbnail": "https://i.pinimg.com/enabled_lo/564x/b1/89/86/b18986f14e8181ac80633ec4728d6cf7.jpg"
+    },
+    {
+      "id": "8",
+      "thumbnail": "https://i.pinimg.com/564x/2d/2c/f3/2d2cf34beda10a3e741acc8d7b9fe0f1.jpg"
+    },
+    {
+      "id": "9",
+      "thumbnail": "https://i.pinimg.com/564x/95/54/39/955439c36216cc5d4f6f9296dd141844.jpg"
+    },
+    {
+      "id": "6",
+      "thumbnail": "https://i.pinimg.com/564x/9a/ab/e8/9aabe8e47cc2c3ba25aacce0eec67141.jpg"
+    }
+  ]
+}
