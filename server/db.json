@@ -153,20 +153,52 @@
   ],
   "mylist": [
     {
-      "id": "1",
-      "thumbnail": "https://i.pinimg.com/enabled_lo/564x/b1/89/86/b18986f14e8181ac80633ec4728d6cf7.jpg"
-    },
-    {
-      "id": "8",
-      "thumbnail": "https://i.pinimg.com/564x/2d/2c/f3/2d2cf34beda10a3e741acc8d7b9fe0f1.jpg"
-    },
-    {
       "id": "9",
       "thumbnail": "https://i.pinimg.com/564x/95/54/39/955439c36216cc5d4f6f9296dd141844.jpg"
     },
     {
       "id": "6",
       "thumbnail": "https://i.pinimg.com/564x/9a/ab/e8/9aabe8e47cc2c3ba25aacce0eec67141.jpg"
+    },
+    {
+      "id": "1184918",
+      "thumbnail": "https://image.tmdb.org/t/p/w500//wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "title": "The Wild Robot"
+    },
+    {
+      "id": 945961,
+      "thumbnail": "https://image.tmdb.org/t/p/w500//b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+      "title": "Alien: Romulus"
+    },
+    {
+      "id": 1144962,
+      "thumbnail": "https://image.tmdb.org/t/p/w500//oqhaffnQqSzdLrYAQA5W4IdAoCX.jpg",
+      "title": "Transmorphers: Mech Beasts"
+    },
+    {
+      "id": 1144962,
+      "title": "Transmorphers: Mech Beasts",
+      "thumbnail": "https://image.tmdb.org/t/p/w500//oqhaffnQqSzdLrYAQA5W4IdAoCX.jpg"
+    },
+    {
+      "id": 507241,
+      "title": "The Killer's Game",
+      "thumbnail": "https://image.tmdb.org/t/p/w500//4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg"
+    },
+    {
+      "id": 1100782,
+      "title": "Smile 2",
+      "thumbnail": "https://image.tmdb.org/t/p/w500//4Ki6hf0nN3vp9xDrseyFHfXGa7c.jpg"
+    },
+    {
+      "id": 1100782,
+      "title": "Smile 2",
+      "thumbnail": "https://image.tmdb.org/t/p/w500//4Ki6hf0nN3vp9xDrseyFHfXGa7c.jpg"
+    },
+    {
+      "id": 535,
+      "title": "Flashdance",
+      "thumbnail": "https://image.tmdb.org/t/p/w500//mdtsA4tIk54857BuIBxnfECbNSZ.jpg"
     }
   ]
 }

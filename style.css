@@ -128,13 +128,12 @@ div#\33 {
 .image_container {
     padding-top: 8px;
 }
-
 img.flash_iamge {
     width: 100%;
     border-radius: 15px;
     box-shadow: 0 0 15px #000000;
     object-fit: cover;
-    height: 50vh;
+    height: fit-content;
 }
 
 .under_contents {
