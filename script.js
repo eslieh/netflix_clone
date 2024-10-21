@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", (e) => {
-    const apiKey = "589f8d3ada4c0c32b6db7671025e3162"; // Replace with your TMDB API key
+    const apiKey = "589f8d3ada4c0c32b6db7671025e3162"; 
     const imageContainer = document.querySelector(".image_container");
 
     // Random number generator to get random movie IDs
